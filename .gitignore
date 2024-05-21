@@ -1,0 +1,11 @@
+hw01/*
+
+!hw01/*.cpp
+!hw01/*.txt
+!hw01/testDataset
+!hw01/customTests
+!hw01/evalDataset
+
+*.out
+*.obj
+*.exe
